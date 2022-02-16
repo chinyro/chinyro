@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sydrob
 - 👀 I’m interested in ...web and app development
-- 🌱 I’m currently learning ...JavaScript! but also following the Full Stack Path, starting with the Front End journey!
+- 🌱 I’m currently learning ...React/Vue! but also following the Full Stack Path, starting with the Front End journey!
 - 💞️ I’m looking to collaborate on ...all web development projects related to JS, React or anything that brings a new challenge!
 - 📫 How to reach me ...sidney.robhez@gmail.com
 
