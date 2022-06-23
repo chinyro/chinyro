@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sydrob
-- 👀 I'm part of the Quality Engineering Team dedicated to testing and deployment stages in the Software Development process 
+- 👀 I'm part of the Quality Engineering Team dedicated to the testing and deployment stages in the Software Development process 
 - ✅ Currently expanding my knowledge in web and app development
 - 🌱 I’m learning ...React/Vue & getting into the Back-End world
 - 💞️ I’m looking to collaborate on ...everything that brings a new challenge!
