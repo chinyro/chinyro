@@ -3,7 +3,6 @@
 - ✅ Currently expanding my knowledge in web and app development
 - 🌱 I’m learning... React/Vue & getting into the Back-End world
 - 💞️ I’m looking to collaborate on ...everything that brings a new challenge!
-- 📫 How to reach me ...sidney.robhez@gmail.com
 
 <!---
 Chinyro/chinyro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
