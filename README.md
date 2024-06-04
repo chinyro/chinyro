@@ -1,6 +1,6 @@
 ## Hola! 💜
 
-I’m Chiny Ro ✨ I'm passionate about Software Testing and Web Development. I'm currently expanding my knowledge in A11y and working in React/Vue projects. I’m looking to collaborate on ...everything that brings a new challenge! 🌈
+I’m Sidney ✨ I'm passionate about Software Testing and Web Development. I'm currently expanding my knowledge in A11y and working in React/Vue projects. I’m looking to collaborate on ...everything that brings a new challenge! 🌈
 
 ### Skills 🔥
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
